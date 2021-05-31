@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bld-leagues",
+  "private_key_id": "ea0916299a75b2a7b65f2201aebba900adf72ef2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDAzJGJifHdBw1K\nUrCgIG25XLNXuxwSFsE8qzq0Cg96aS/zB+9ZOcGtk10mfjpdoSot3+5WlRB1upFY\nwdnhh1sa+JVjbpmsUkfCc6mWSGZ5LFVqh6C/uQ+Tx9aR6xiWnjVEkfTIPMd6d/2X\nNL6Uupelf5YlPyVx32gtLtLxrW4/YDzUXvGY59XjU19w55DhujQ19B8Krcmf+7pz\n6OPOHuRyUvoh/HtZ2Ytw0BAbKPvgMrfthf02jpIu7U1Swp0+Wcqmr0oBvXrwPYwi\n14BDWMmA3bD2MpAxzZG67cLe85ZNuVZdVVn13YAKr2rqWjWvbL95Yhvr18c3S3MY\n+pW4s/dzAgMBAAECggEASh77fsiROxvIcL/slosRE/e/HSXaq1ujK7tapLfPboy8\n+e6dhoyNWLl0UOWrc66PpDZYj2Hcg55X3asdJDbhADP8Xs849kZlvyyvUI8CEmjI\nZ92/n6W6huKHq+6Zs+Ib8YI5fLfdKsixri2BbXV08pPj+erWbvpoNyKux2oZHfSq\nwXBGAU28Q/nDGK+RsByim0WO4UFHRhBuFiwUtg+SnlaMsS+g2w+F1rWWUz10S/i0\nMiI1BejPECYs09+o92J+JxsDIqc4L+g8sbzrwqZ32mOil4HNh2uI3i25f/JvCcJn\nRQbjzhA6zP/xXM2Gc7a2XWMmO0+vKuKtJ9NvMvC+oQKBgQDypMJ5kBH6Gaa/NRtg\nuannUWH8hgzT/BunF/MHi3F0MXT2qKu6DDig+AOJCcuH1gPECRVvn8sMggb/NZ0K\nmD2j1YPHz8FDB/c5Z2OhbQhNFVW3aep2apcYoYcpbV9t8XheO1DesRVW2dwimPl7\noHovgRfPSYM20cjkcr6S2jNHUwKBgQDLaWtZKn6s39l0GMHdxJQYfFeg/ky2jMIL\nau9x+DU+FN7Q4dQhaO+vwb4DTsHenAHt/FKwjNf8XHN7JmSa/DISl20IDwodU3ge\ndNxuwWbUOpppSs2W7azE81qKxnIDZ42LPjdrBHHoz6mixQa7dUcbg4e6klQNGJ8k\nvF5FtikrYQKBgQDJDQnzLhQnNl/7KSbxQ4XrnHxjgDNa5xeGoYqHIty0GVLAGsyI\nER5PCpHrV8lkWUmvgpNXdYEKcScZCjSAldrlSMKzqoqJXy1TTD66gByTumzW2BUl\nX3apOxZCllSvRZimA+IjU3nKCCSmKjj2XedAO2geItxtbPBXklgkWFaK7wKBgCAQ\npy5wJ3Xi96l4eZ8W7O2LNFkZnUgtmi0ol0RVBzeZHKK65rC5lQcUuHpXAPKxjxBP\n9U0Fdsq+XCnunG9eEBqkKjjZ/hMvZEEQ1OrUq/wKnOq6Mvx2zQRjBEPaEoD84vAv\nR5ckJTy495nEC1KjoyjwLAY6KOvDlNq6ovXESGshAoGBAIZQVvwnYCoR2La76Jog\n4yfKIJJc4/aqo19wW3Fjygh85eVD8C9ZnQMKB/Uxbzl1W+mPop4LZaPgawCcnCtZ\nN2wH/YWK1c8FSBIP8NtD4IrWBGuD3vhCWcnPZETtDZnR91B1ZX/Ie4he9uiALmlW\nIoBG9EuY2BEFojNM3o9XpbPa\n-----END PRIVATE KEY-----\n",
+  "client_email": "id-bld-leagues@bld-leagues.iam.gserviceaccount.com",
+  "client_id": "112157458733574721491",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/id-bld-leagues%40bld-leagues.iam.gserviceaccount.com"
+}
